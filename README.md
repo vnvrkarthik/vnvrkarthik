@@ -1,30 +1,33 @@
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 
-<h1 align="center">Hi , I'm °•_ᐁΝᐁᎡ | ᏦᐃᎡͲᎻᏆᏦ_•°  </h1>
+<h1 align="center">Hi , I'm VNVR KARTHIK  </h1>
 
-<h3 align="center">A passionate Web3 developer from India 🇮🇳</h3>
+<h3 align="center">A passionate VLSI ENGINEER (🇮🇳)</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnvrkarthik&label=Profile%20views&color=0e75b6&style=flat" alt="vnvrkarthik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenameisvnvr" alt="thenameisvnvr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenameisvnvr" alt="vnvrkarthik" /></a> </p>
 
 
 
-- <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0NTk4OTcsIm5iZiI6MTcxMzQ1OTU5NywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE4VDE2NTk1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3YzUxYTNiZTIyZGQzM2QxN2UwOTYzNzUzZDk1OWU5OTMwZjg1NTdlOWFmNTczMWM2NTA4ZGNmZjNhMmVmZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9pZlx_FW2wOQOeiHrygUOtjyn0trsyxqzidxMDOxSE0" width="30"> I’m currently working on **FLUTTER Development**
+- <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0NTk4OTcsIm5iZiI6MTcxMzQ1OTU5NywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE4VDE2NTk1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3YzUxYTNiZTIyZGQzM2QxN2UwOTYzNzUzZDk1OWU5OTMwZjg1NTdlOWFmNTczMWM2NTA4ZGNmZjNhMmVmZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9pZlx_FW2wOQOeiHrygUOtjyn0trsyxqzidxMDOxSE0" width="30"> I’m currently working on **Cadence Innovus**
 
-- 🌱 I’m currently learning **Flutter, Networking by Microsoft on Coursera**
+- 🌱 I’m currently Learning **Indepth Semiconductor Physics**
 
-- <img src="https://private-user-images.githubusercontent.com/74038190/245400778-9037a869-528d-44e2-acaa-288c260ec742.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0NTk4OTcsIm5iZiI6MTcxMzQ1OTU5NywicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NzgtOTAzN2E4NjktNTI4ZC00NGUyLWFjYWEtMjg4YzI2MGVjNzQyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE4VDE2NTk1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBkZmVmMmY3MTE0ZTA3MTQyNzI2YzJlNTYxZWU4Yjk5NzI1NWM2NzdmYzc0MmE3NThlYmNmZGJiODdiMGQxYzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.PcwdwISBr--cxtpPM9w1ylX6Vc1srkms7iFeBLt1bO0" width="25"> The project did for my College faculty [Faculty Forms](srgecforms.netlify.app)
+- <img src="https://private-user-images.githubusercontent.com/74038190/245400778-9037a869-528d-44e2-acaa-288c260ec742.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0NTk4OTcsIm5iZiI6MTcxMzQ1OTU5NywicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NzgtOTAzN2E4NjktNTI4ZC00NGUyLWFjYWEtMjg4YzI2MGVjNzQyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE4VDE2NTk1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBkZmVmMmY3MTE0ZTA3MTQyNzI2YzJlNTYxZWU4Yjk5NzI1NWM2NzdmYzc0MmE3NThlYmNmZGJiODdiMGQxYzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.PcwdwISBr--cxtpPM9w1ylX6Vc1srkms7iFeBLt1bO0" width="25"> The project made for my College faculty [Faculty Forms](srgecforms.netlify.app)
+🐍 8 Bit MicroProcessor: [Design and Architecture]([https://github.com/thenameisvnvr/fingerMouse](https://github.com/vnvrkarthik/8_Bit_Bii-directional_Microprocessor))
+<img src ="https://mir-s3-cdn-cf.behance.net/project_modules/disp/36129979054101.5cb738896b02b.gif" align="center" width="1000">
 
+- 👨‍💻LinkedIn Profile [https://in.linkedin.com/in/vnvrkarthik](https://in.linkedin.com/in/vnvrkarthik)](https://in.linkedin.com/in/vnvrkarthik)
+-  📝 Daily Reader of Google articles on [news.google.co.in](news.google.co.in)
 - 🐍 My python Project: [Hand Mouse](https://github.com/thenameisvnvr/fingerMouse)
-<img src ="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400">
 
-- 👨‍💻 My LinkedIn Profile [https://in.linkedin.com/in/vnvrkarthik](https://in.linkedin.com/in/vnvrkarthik)](https://in.linkedin.com/in/vnvrkarthik)
 
-- 📝 I regularly read Google articles on [news.google.co.in](news.google.co.in)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, jQuery, python, data analysis, data visualisation, technical news..**
+
+
+- 💬 Ask me about **Digital Electronics, C, Verilog,HTML, CSS, JavaScript, Bootstrap, jQuery, python, data analysis, data visualisation, technical news..**
 
 
 - 📫 How to reach me **vnvrkarthik@gmail.com**
@@ -54,5 +57,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenameisvnvr&theme=highcontrast" alt="thenameisvnvr" /></p>
 
 
-‌<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
