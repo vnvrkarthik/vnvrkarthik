@@ -1,7 +1,12 @@
+<h1 align="center">Hi, I'm VNVR KARTHIK</h1>
+<h3 align="center">ECE (2027) |  Former <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" 
+       alt="Google Logo" width="70" style="vertical-align:-20px;" /> DSC Lead | Edge AI Hardware Researcher</h3>
+<h6 align="center">A passionate VLSI Engineer (🇮🇳)</h6>
+
+
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="1000">
 
-<h1 align="center">Hi, I'm VNVR KARTHIK</h1>
-<h3 align="center">A passionate VLSI Engineer (🇮🇳)</h3>
+<h6 align="center">I bridge the gap between complex <b>MATHEMATICAL</b> models and <b>physical HARDWARE</b>. Focuses on low-power ASIC design, Edge AI, and IoT systems, driven by a passion and real-world implementation.</h6>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vnvrkarthik&label=Profile%20views&color=0e75b6&style=flat" alt="vnvrkarthik" />
@@ -9,40 +14,44 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thenameisvnvr" alt="vnvrkarthik" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vnvrkarthik" alt="vnvrkarthik" />
   </a>
 </p>
 
 ---
 
-- <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="30"> I’m currently working on **Cadence Innovus**
-- 🌱 I’m currently learning **In-depth Semiconductor Physics**
-- <img src="https://private-user-images.githubusercontent.com/74038190/245400778-9037a869-528d-44e2-acaa-288c260ec742.gif" width="25"> Project made for my College faculty: [Faculty Forms](https://srgecforms.netlify.app)
+- I’m currently working on **Cadence Innovus**
+- 🌱 I’m currently learning **In-depth Semiconductor Physics and Complex Matrix solving Hardware**
+- Repurposed Old Mobile Phones as CC cameras with inbuilt Swarm technology.
 - 🖥️ 8-Bit Microprocessor: [Design and Architecture](https://github.com/vnvrkarthik/8_Bit_Bii-directional_Microprocessor)
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/36129979054101.5cb738896b02b.gif" align="center" width="1000">
+---
+
+### 🚀 Highlights & Milestones
+* 🔬 **Research:** Presented *"Specialized Low-Power ASIC Architecture for Computing Non-rotational Scaling Factors of 2D Vectors"* at International Conference Springer ICTIS 2026, Thailand. [Conference Presentation](https://youtu.be/NTkGiKjFtx0?si=a1ySfgRUof-ViKpc&t=7101)
+  
+### 🏆 **Hackathons & Expos:** 
+  * 3x National Level Project Expo & Technical Paper Presentation winner.
+  * 3rd Prize Winner at SPIKES (Andhra University) for Converting Old Mobiles to a Military grade Swarm communication & detection System along with Edge AI Surveillance
+  * Top 10 Finalist for our research ASIC at Space Tech Summit 2026.
+  * Dual Winner (Tech Paper & Project Expo) at SRUJANA 2026.
+* 🎓 **Academics:** 9.07 CGPA.
 
 ---
 
 - 👨‍💻 LinkedIn Profile: [in.linkedin.com/in/vnvrkarthik](https://in.linkedin.com/in/vnvrkarthik)
 - 📝 Daily reader of Google articles on [news.google.co.in](https://news.google.co.in)
-- 🐍 My Python Project: [Hand Mouse](https://github.com/thenameisvnvr/fingerMouse)
+- 🐍 My Python Project: [Hand Mouse](https://github.com/vnvrkarthik/fingerMouse)
 - 💬 Ask me about **Digital Electronics, C, Verilog, Electronic Devices, Semiconductor Physics,HTML, CSS, JavaScript, Bootstrap, jQuery, Python, Data Analysis, Data Visualization, Technical News**
 - 📫 How to reach me: **vnvrkarthik@gmail.com**
-- 📄 Know about my experiences: [Resume](https://images.app.goo.gl/hzSxDYpftbsHPpjQ7)
-- ⚡ Fun fact: **According to Quantum Mechanics, we are just waves 👀👀**
-
----
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1UtyHydYATRc8BUbj6UpOTS9Ktz-FOh8a/view?usp=sharing)
 
 ---
 
 ### Connect with me:
 <p align="left">
-  <a href="https://dev.to/thenameisvnvr" target="_blank">
+  <a href="https://dev.to/vnvrkarthik" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/vnvr-karthik" target="_blank">
@@ -77,11 +86,11 @@
 ---
 
 ### GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenameisvnvr&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnvrkarthik&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenameisvnvr&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vnvrkarthik&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenameisvnvr&theme=highcontrast" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vnvrkarthik&theme=highcontrast" alt="GitHub Streak" /></p>
 
 ---
 
