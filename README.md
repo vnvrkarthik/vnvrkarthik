@@ -42,7 +42,7 @@
 
 ---
 
-- I’m currently working on **Cadence Innovus**
+- I’m currently working on **Cadence Innovus & XILINX Vivado**
 - 🌱 I’m currently learning **In-depth Semiconductor Physics and Complex Matrix solving Hardware**
 - Repurposed Old Mobile Phones as CC cameras with inbuilt Swarm technology.
 - 🖥️ 8-Bit Microprocessor(Manullay Wired) : [Design and Architecture](https://github.com/vnvrkarthik/8_Bit_Bii-directional_Microprocessor)
