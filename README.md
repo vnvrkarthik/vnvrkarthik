@@ -2,6 +2,15 @@
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4d37ff&height=250&section=header&text=VNVR%20Karthik&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+<div align="center">
+  <img src="https://img.shields.io/badge/1st_Prizes-5-FFD700?style=for-the-badge&logo=opslevel&logoColor=black">
+  <img src="https://img.shields.io/badge/2nd_Prizes-4-C0C0C0?style=for-the-badge&logo=opslevel&logoColor=black">
+  <img src="https://img.shields.io/badge/3rd_Prizes-3-CD7F32?style=for-the-badge&logo=opslevel&logoColor=black">
+  <img src="https://img.shields.io/badge/Events_Infiltrated-23-00FFCC?style=for-the-badge&logo=hackthebox&logoColor=black">
+  <img src="https://img.shields.io/badge/SUMMITS_&_Conferences-1-FF00FF?style=for-the-badge&logo=rocket&logoColor=white">
+</div>
+
+<br>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0bCEAF&center=true&vCenter=true&width=600&lines=Google+DSC+Lead+|+9.07+CGPA;AI+Hardware+%26+Computer+Vision+Developer;ECE+Undergrad+(2027)+|+Hardware+Enthusiast;" alt="Typing SVG" />
@@ -13,7 +22,7 @@
   <p align="center">
     <a href="mailto:vnvrkarthik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/vnvrkarthik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="will_be_updated"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/vnvrkarthik/Hackathons_EXPOs_TechPaperPresentations/"><img src="https://img.shields.io/badge/ACHIEVEMENTS_REPO-252F3F?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   </p>
 </div>
 
