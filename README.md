@@ -4,11 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4d37ff&height=250&section=header&text=VNVR%20Karthik&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0bCEAF&center=true&vCenter=true&width=600&lines=ECE+Undergrad+(2027)+|+9.07+CGPA;Google+DSC+Lead+|+Hardware+Enthusiast;AI+Hardware+%26+Computer+Vision+Developer;Former+Research+Intern+@+IIITH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0bCEAF&center=true&vCenter=true&width=600&lines=Google+DSC+Lead+|+9.07+CGPA;AI+Hardware+%26+Computer+Vision+Developer;ECE+Undergrad+(2027)+|+Hardware+Enthusiast;" alt="Typing SVG" />
   </a>
 
   
-   <h6 align="center">I bridge the gap between complex <b>MATHEMATICAL</b> models and <b>physical HARDWARE</b>. Focuses on low-power ASIC design, Edge AI, and IoT systems, driven by a passion and real-world implementation.</h6>
+   <h6 align="center">I bridge the gap between complex <b><i>MATHEMATICAL</i></b> models and <b><i>physical HARDWARE</i></b>. Focuses on low-power ASIC design, Edge AI, and IoT systems, driven by a passion and real-world implementation.</h6>
 <br>
   <p align="center">
     <a href="mailto:vnvrkarthik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -65,7 +65,7 @@
 
 - 👨‍💻 LinkedIn Profile: [in.linkedin.com/in/vnvrkarthik](https://in.linkedin.com/in/vnvrkarthik)
 - 📝 Daily reader of Google articles on [news.google.co.in](https://news.google.co.in)
-- 🐍 My Python Project: [Hand Mouse](https://github.com/vnvrkarthik/fingerMouse)
+- 🐍 My Python Project: [Hand Mouse](https://github.com/vnvrkarthik/fingerMouse), [Mobile Mesh of CC Cameras](https://www.linkedin.com/posts/vnvrkarthik_hackathon-ewaste-sustainability-activity-7430996127405191168-uwWF)
 - 💬 Ask me about **Digital Electronics, C, Verilog, Electronic Devices, Semiconductor Physics,HTML, CSS, JavaScript, Bootstrap, jQuery, Python, Data Analysis, Data Visualization, Technical News**
 - 📫 How to reach me: **vnvrkarthik@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1UtyHydYATRc8BUbj6UpOTS9Ktz-FOh8a/view?usp=sharing)
@@ -109,9 +109,9 @@
 ---
 
 ### GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnvrkarthik&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnvrkarthik&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vnvrkarthik&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vnvrkarthik&show_icons=true&locale=en" alt="GitHub Stats" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vnvrkarthik&theme=highcontrast" alt="GitHub Streak" /></p>
 
