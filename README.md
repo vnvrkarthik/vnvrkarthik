@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/2nd_Prizes-4-C0C0C0?style=for-the-badge&logo=opslevel&logoColor=black">
   <img src="https://img.shields.io/badge/3rd_Prizes-3-CD7F32?style=for-the-badge&logo=opslevel&logoColor=black">
   <img src="https://img.shields.io/badge/Events_Infiltrated-23-00FFCC?style=for-the-badge&logo=hackthebox&logoColor=black">
-  <img src="https://img.shields.io/badge/SUMMITS_&_Conferences-1-FF00FF?style=for-the-badge&logo=rocket&logoColor=white">
+  <img src="https://img.shields.io/badge/SUMMITS_&_Conferences-2-FF00FF?style=for-the-badge&logo=rocket&logoColor=white">
 </div>
 
 <br>
