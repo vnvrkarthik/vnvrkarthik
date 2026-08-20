@@ -118,11 +118,21 @@
 ---
 
 ### GitHub Stats:
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnvrkarthik&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vnvrkarthik&show_icons=true&locale=en" alt="GitHub Stats" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vnvrkarthik&theme=highcontrast" alt="GitHub Streak" /></p>
+<div align="center">
+  <!-- First block: GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vnvrkarthik&theme=highcontrast" width="100%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <!-- Second block: Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vnvrkarthik&theme=github" width="100%" alt="Profile Summary"/>
+</div>
+
+
+
+---
 
 ---
 
